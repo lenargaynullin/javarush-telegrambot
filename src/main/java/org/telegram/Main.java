@@ -14,6 +14,7 @@ import org.telegram.updateshandlers.RaeHandlers;
 import org.telegram.updateshandlers.WeatherHandlers;
 import org.telegram.updateshandlers.WebHookExampleHandlers;
 // test 2
+// в
 /**
  * @author Ruben Bermudez
  * @version 1.0
